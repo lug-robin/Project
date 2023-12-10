@@ -1,0 +1,24 @@
+{
+  "votedPollOptionResponses": [
+    {
+      "option": "Skipbo",
+      "question": "Welches Brettspiel ist das BESTE"
+    },
+    {
+      "option": "Mehr Jasmin, bitte!",
+      "question": "Welche Story wünscht ihr euch?"
+    },
+    {
+      "option": "a secret fourth thing",
+      "question": "Wovon wollt ihr mehr hören?"
+    },
+    {
+      "option": "fMRIs show dogs love us",
+      "question": "Which bit of dog science did you find most surprising?"
+    },
+    {
+      "option": "Toilettenpapier",
+      "question": "Was würdest du mit in die Hungerspiele nehmen?"
+    }
+  ]
+}
